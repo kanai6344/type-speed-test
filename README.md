@@ -1,6 +1,10 @@
 # type-speed-test
 A simple and elegant typing speed test application that measures your words per minute (WPM) and accuracy.
 
+## Live Demo
+
+You can view a live version of this tool at [(https://kanai6344.github.io/type-speed-test/)]
+
 🌟 Features
 
 Real-time WPM Calculation: Instantly see your typing speed
