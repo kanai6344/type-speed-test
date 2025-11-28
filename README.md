@@ -7,8 +7,8 @@ You can view a live version of this tool at [(https://kanai6344.github.io/type-s
 
 🌟 Features
 
-- Real-time WPM Calculation: Instantly see your typing speed
-- Accuracy Measurement: Track your typing precision
-- Multiple Test Quotes: Different phrases to type for varied practice
-- Clean UI: Minimalist and distraction-free interface
-- Responsive Design: Works on desktop and mobile devices
+- *Real-time WPM Calculation*: Instantly see your typing speed
+- *Accuracy Measurement*: Track your typing precision
+- *Multiple Test Quotes*: Different phrases to type for varied practice
+- *Clean UI*: Minimalist and distraction-free interface
+- *Responsive Design*: Works on desktop and mobile devices
